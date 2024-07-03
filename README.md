@@ -81,6 +81,6 @@
     </html>
 
 ### OTUPUT:
-
+![](https://github.com/AKASHBKUMAR/html-ABC-college/blob/main/output.jpeg?raw=true)
 ### RESULT:
     Thus, the task has been completed successsfully.
